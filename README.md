@@ -1,4 +1,4 @@
-[![Slack chat](https://img.shields.io/badge/kotlinlang-chat-green?logo=slack&style=flat-square)](https://kotlinlang.slack.com/team/UL1A5BA2X)
+[![Slack chat](https://img.shields.io/badge/kotlinlang-%23kmdc-green?logo=slack&style=flat-square)](https://kotlinlang.slack.com/archives/CNR7ARJGJ)
 [![Dokka docs](https://img.shields.io/badge/docs-dokka-orange?style=flat-square)](http://mpetuska.github.io/kmdc)
 [![Version maven-central](https://img.shields.io/maven-central/v/dev.petuska/kmdc?logo=apache-maven&style=flat-square)](https://mvnrepository.com/artifact/dev.petuska/kmdc/latest)
 
@@ -86,7 +86,7 @@ Here's a tracker list of currently completed [material-components-web] modules (
 - [ ] mdc-circular-progress
 - [ ] mdc-data-table
 - [x] mdc-density (won't wrap)
-- [ ] mdc-dialog
+- [x] mdc-dialog
 - [x] mdc-dom (won't wrap)
 - [x] mdc-drawer
 - [ ] mdc-elevation
